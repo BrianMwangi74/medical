@@ -1,2 +1,2 @@
-# medical
-A java application that uses fetches medical data from a fhir server and displays it in a user friendly way
+Link to the source files : 
+https://drive.google.com/drive/folders/1QQVHEQ4L41MigTZFhcJgNx4okiE_a_WS?usp=sharing
